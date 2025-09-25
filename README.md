@@ -1,5 +1,5 @@
 
-## 🥰 About Me! 
+## About Me! 
 
 
 💬 <b>Passionate about building delightful *Front-End* experiences!</b><br/>  
@@ -7,7 +7,7 @@
 
 <br/>
 
-## 🌟 Activities 🌟
+## Activities 
 
 | 💼 활동 내용                                      | 🧸 역할       | 📅 기간                |
 |--------------------------------------------------|--------------|-------------------------|
@@ -19,7 +19,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack 🛠️
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -34,9 +34,3 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </p>
 
-<br/>
-
-## 🐻 State 🐻
-
-
-![kimminnna's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimminna&show_icons=true&theme=omni)
